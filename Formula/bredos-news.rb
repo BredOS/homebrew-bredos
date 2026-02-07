@@ -1,4 +1,4 @@
-class BredOSNews < Formula
+class BredosNews < Formula
   desc "BredOS news and system information utility"
   homepage "https://github.com/BredOS/news"
   url "https://github.com/BredOS/news.git",
